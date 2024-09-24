@@ -6,7 +6,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 load_dotenv()
 
 
-genai.configure(api_key="AIzaSyCoEWx5nIncBGME7iDw-TYiWEhRJSMxvDE")
+genai.configure(api_key=API_KEY)
 
 
 
